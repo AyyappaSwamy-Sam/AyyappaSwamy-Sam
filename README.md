@@ -1,4 +1,5 @@
-![Banner](thati ayyappa swamy.png)
+![AyyappaSwamy-Sam Banner Image]()
+
 <h1 align="center">Hi 👨🏻‍🎓, I'm Thati Ayyappa Swamy</h1>
 
 <h3 align="center">Currently doing my engineering UG at Amrita Vishwa Vidyaapeetham</h3>

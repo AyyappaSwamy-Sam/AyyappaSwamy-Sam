@@ -8,7 +8,7 @@
 
 <h3 align="center">You call me as Sam.</h3> 
 
-- 📖 I’m currently learning **java [data stuctures & algorithms],python [machine learning and deep learning courses], C/C++ language, Arduino C and MatLab.**
+- 📖 I’m currently learning **java [data stuctures & algorithms],python [machine learning and deep learning courses], C/C++ language, Arduino C and Matlab.**
 
 - 💻 I’m currently working on **few java and python projects.**
 

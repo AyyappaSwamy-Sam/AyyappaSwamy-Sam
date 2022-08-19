@@ -12,7 +12,7 @@
 
 - 💻 I’m currently working on **few java and python projects.**
 
-<!-- - 📝 How to reach me **thatiayyappaswami@gmail.com** -->
+- 📝 How to reach me **thatiayyappaswami@gmail.com** 
 
 <!--[![Instagram Badge](https://img.shields.io/badge/-_swami_chowdary-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_swami_chowdary/)](https://www.instagram.com/_swami_chowdary/)
 [![Gmail Badge](https://img.shields.io/badge/-thatiayyappaswami@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thatiayyappaswami@gmail.com)](mailto:thatiayyappaswami@gmail.com)-->

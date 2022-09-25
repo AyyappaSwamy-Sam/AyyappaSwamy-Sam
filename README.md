@@ -6,11 +6,11 @@
 
 <h3 align="center">Amrita School of Engineering ASE 2021-25</h3>
 
-<h3 align="center">You call me as Sam.</h3> 
+<h3 align="center">You can call me as Sam.</h3> 
 
-- 📖 I’m currently learning **java [data stuctures & algorithms],python [machine learning and deep learning courses], C/C++ language, Arduino C and Matlab.**
+- 📖 I’m good at **Linux, python, C/C++ language, Arduino C and Matlab.**
 
-- 💻 I’m currently working on **few java and python projects.**
+- 💻 I’m currently working on **data structures in python, penetration testing and ethical hacking.**
 
 - 📝 How to reach me **thatiayyappaswami@gmail.com** 
 

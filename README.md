@@ -10,7 +10,7 @@
 
 - 📖 I’m good at **Linux, python, C/C++ language, Arduino C and Matlab.**
 
-- 💻 I’m currently working on **data structures in python, penetration testing and ethical hacking.**
+- 💻 I’m currently working on **data structures in python, web development.**
 
 - 📝 How to reach me **thatiayyappaswami@gmail.com** 
 

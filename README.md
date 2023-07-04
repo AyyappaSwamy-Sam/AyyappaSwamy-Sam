@@ -8,9 +8,9 @@
 
 <h3 align="center">You can call me as Sam.</h3> 
 
-- 📖 I’m good at **Linux, python, C/C++ language, Arduino C and Matlab.**
+- 📖 I’m good at **Linux, python, C/C++ language, Data Structures, Matlab and Machine Learning with indutions.**
 
-- 💻 I’m currently working on **data structures in python, web development.**
+- 💻 I’m currently working on **Data Analysis & algorithms and Deep Learning**
 
 - 📝 How to reach me **thatiayyappaswami@gmail.com** 
 

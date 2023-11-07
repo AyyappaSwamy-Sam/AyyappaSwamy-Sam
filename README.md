@@ -1,4 +1,4 @@
-![AyyappaSwamy-Sam Banner Image](ayyappaswamy.png)
+![AyyappaSwamy-Sam Banner Image]([ayyappaswamy.png](https://github.com/AyyappaSwamy-Sam/AyyappaSwamy-Sam/blob/48d6da620f67b0f270c517aba9ef7ed6e383abdc/ayyappaswamy.png))
 
 <h1 align="center">Hi 👨🏻‍🎓, I'm Thati Ayyappa Swamy</h1>
 

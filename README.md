@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thati Ayyappa Swamy</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer from India</h3>
 
-- 🔭 I’m currently working on [Plant Pathology](https://github.com/AyyappaSwamy-Sam/Plant-Pathology-using-CNN)
+- 🔭 I’m currently working on [Plant Pathology]
 
 - 🌱 I’m currently learning **Computer Vision, Transformers and Transfer Learning.**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **thatiayyappaswami@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/AyyappaSwamy-Sam/AyyappaSwamy-Sam/blob/main/Ayyappa%20Swamy%20CV.pdf](https://github.com/AyyappaSwamy-Sam/AyyappaSwamy-Sam/blob/main/Ayyappa%20Swamy%20CV.pdf)
+- 📄 Know about my experiences [Ayyappa Swamy CV](https://github.com/AyyappaSwamy-Sam/AyyappaSwamy-Sam/blob/main/Ayyappa%20Swamy%20CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -66,6 +66,7 @@ Currently, I am engineering high-performance analytics engines that leverage LLM
 <p align="center">
   <a href="https://www.linkedin.com/in/ayyappa-swamy-thati-82372a222"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:thatiayyappaswami@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://ayyappaswamy-sam.github.io/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">

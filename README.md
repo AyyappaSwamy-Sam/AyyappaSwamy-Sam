@@ -1,6 +1,9 @@
-# Hi 👋, I'm Ayyappa Swamy
+<h1 align="center">Hi 👋, I'm Ayyappa Swamy</h1>
 
-**AI & Backend Engineer | System Architect**
+<h3 align="center">Artificial Intelligence Engineer at Jupiter Meta ✌🏻</h3>
+<h3 align="center"> Amrita Vishwa Vidyapeetham (ASE 21-25)</h3>
+
+---
 
 I specialize in architecting, deploying, and securing scalable **Generative AI applications** and **multi-agent systems**. I take a hands-on approach to the entire lifecycle of a project—from designing high-concurrency backend architectures to managing cloud infrastructure and ensuring robust network security.
 
@@ -55,13 +58,12 @@ Currently, I am engineering high-performance analytics engines that leverage LLM
 ### 📊 GitHub Analytics
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AyyappaSwamy-SAM&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyyappaSwamy-SAM&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
 ### 🤝 Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ayyappa-swamy-thati-82372a222"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:thatiayyappaswami@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>

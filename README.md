@@ -1,53 +1,52 @@
 # Hi 👋, I'm Ayyappa Swamy
 
-A passionate **Artificial Intelligence Engineer** and **Founder of The Liberal Labs**. I build intelligent systems that solve real-world problems, with a focus on Deep Learning, Computer Vision, and Explainable AI (XAI).
+**Backend & AI Engineer | System Architect | Founder of The Liberal Labs**
+
+I specialize in the architecture, deployment, and security of scalable **Generative AI applications** and **multi-agent systems**. Currently, I'm engineering high-performance AI engines at **Jupiter Meta** that transform complex data into actionable market insights.
 
 ---
 
-### 🧪 Featured Work at [The Liberal Labs](https://github.com/The-Liberal-Labs)
+### 🚀 Technical Expertise
 
-- **[Leafy](https://github.com/The-Liberal-Labs/Leafy):** An open-source AI-powered plant pathologist. Diagnoses diseases and provides care advice using XAI.
-- **[PocketSage](https://github.com/The-Liberal-Labs/PocketSage):** An intelligent educational assistant designed to streamline student workflows.
-- **[Diabetic Retinopathy Detection](https://github.com/The-Liberal-Labs/Diabetic-retinopathy-detection):** Leveraging Deep Learning to identify retinopathy effects in diabetic patients.
-- **[Data Crawler](https://github.com/The-Liberal-Labs/Data-Crawler):** A high-performance Python-based tool for structured data extraction.
-
----
-
-### 🛠️ Languages and Tools
-
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | Python, Go, Bash, SQL, MATLAB |
-| **AI/ML** | PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, XAI |
-| **Data** | Pandas, NumPy, Seaborn, Matplotlib |
-| **Database** | MongoDB, PostgreSQL, MySQL, SQLite |
-| **DevOps/Cloud** | Docker, AWS, Google Cloud (GCP), Git |
-| **Frameworks** | Django, Flask, FastAPI |
+- **AI/ML:** Multi-Agent Systems (LangGraph), Generative AI (Gemini, OpenAI), Advanced RAG, Computer Vision (CNNs, XAI), Deep Reinforcement Learning.
+- **Backend & Systems:** FastAPI, Go, DuckDB (OLAP), High-Concurrency Architectures, Zero-Knowledge Authentication.
+- **Cloud & DevOps:** GCP (Cloud Run, GKE, Kubernetes), Docker, VPS Security & Hardening (Ubuntu), Infrastructure Management.
+- **Databases:** Neo4j (GraphRAG), MongoDB, PostgreSQL, Vector Databases (Milvus, Chroma).
 
 ---
 
-### 📈 GitHub Stats
+### 🧪 Featured Work
+
+#### [Jupiter Meta](https://github.com/Jupiter-Meta)
+- **Poseidon:** AI-driven analytics platform using LangGraph and DuckDB. Reduced research cycle times by 50% through natural language querying.
+- **Hercules:** Automated survey generation ecosystem leveraging Gemini to transform research goals into professional surveys.
+- **JM Prism Search:** An advanced AI-powered search engine (similar to Perplexity) using Multi-Agent query generation and Crawl4ai.
+
+#### [The Liberal Labs](https://github.com/The-Liberal-Labs)
+- **[Leafy](https://github.com/The-Liberal-Labs/Leafy):** A state-of-the-art diagnostic engine for plant pathology using Residual CNNs with CBAM Attention Modules.
+- **[PocketSage](https://github.com/The-Liberal-Labs/PocketSage):** Intelligent educational and clinical assistant utilizing GraphRAG (Neo4j) for structured documentation and fraud detection.
+- **[Secure Remote Password](https://github.com/AyyappaSwamy-Sam/Secure-Remote-Password):** Zero-knowledge authentication system engineered in Go to neutralize database leak risks.
+
+---
+
+### 📈 Stats & Impact
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyyappaSwamy-Sam&show_icons=true&theme=tokyonight" alt="AyyappaSwamy-Sam Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyyappaSwamy-Sam&theme=tokyonight" alt="AyyappaSwamy-Sam Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyyappaSwamy-Sam&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ---
 
-### 🤝 Connect with Me
+### 🤝 Let's Connect
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ayyappa-swamy-thati-82372a222"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:thatiayyappaswami@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.instagram.com/ayyappaswamy_712"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyyappaSwamy-Sam&theme=tokyonight" alt="Trophies" /></a>
+  <i>"Building the bridge between complex data and intelligent decisions."</i>
 </p>

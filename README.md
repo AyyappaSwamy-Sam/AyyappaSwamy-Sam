@@ -1,45 +1,37 @@
-<h1 align="center">Ayyappa Swamy</h1>
+<h1 align="center">Ayyappa Swamy Thati</h1>
 <p align="center"><strong>Senior AI &amp; Systems Engineer</strong></p>
-<p align="center">Building intelligent products, reliable backends, and the systems that connect them.</p>
-
+<p align="center">Model building · Intelligent systems · Data-driven products</p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayyappa-swamy-thati-82372a222">LinkedIn</a> ·
-  <a href="https://ayyappaswamy-sam.github.io/">Portfolio</a> ·
+  <a href="https://ayyappaswamy-sam.github.io/">Portfolio</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/ayyappa-swamy-thati-82372a222">LinkedIn</a> &nbsp; / &nbsp;
   <a href="mailto:thatiayyappaswami@gmail.com">Email</a>
 </p>
 
-## What I work on
+---
 
-I build AI-powered systems from idea to production: multi-agent workflows, analytical applications, and the backend infrastructure that makes them useful at scale. I care about dependable data, security, and turning complex problems into products people can use.
+I build across the AI lifecycle: from training and adapting models to designing the systems that make them useful. My work spans language models, machine learning, computer vision, reinforcement learning, robotics, and production AI products.
 
-**AI engineering** · LLM applications, multi-agent systems, RAG, evaluation
+## Areas of expertise
 
-**Systems** · API design, asynchronous processing, security, cloud deployment
+**Language models & AI systems**<br>
+LLMs from scratch and fine-tuning · BERT and NLP · RAG · multi-agent systems · knowledge graphs
 
-**Data** · analytical pipelines, SQL, databases, knowledge graphs
+**Machine learning & data science**<br>
+Supervised and unsupervised learning · statistical modeling · clustering · time series · model evaluation
 
-## Toolkit
+**Deep learning, vision & robotics**<br>
+CNNs and representation learning · object detection and tracking · reinforcement learning · ROS
 
-**Languages & backend:** Python, Go, SQL, Bash, FastAPI
+**Engineering**<br>
+Python · Go · SQL · FastAPI · PyTorch · TensorFlow · LangGraph · DuckDB · PostgreSQL · Docker · cloud
 
-**AI & data:** LangGraph, PyTorch, TensorFlow, DuckDB, PostgreSQL, FalkorDB, Neo4j
-
-**Infrastructure:** Google Cloud, AWS, Docker, Linux
-
-## Selected work
-
-- **Poseidon** — AI-assisted analytics for exploring survey data and answering research questions.
-- **Hercules** — conversational tooling that turns research goals into deployable consumer surveys.
-- **PocketSage** — retrieval-augmented knowledge extraction from documents.
-- **Leafy** — crop health analysis using deep learning and explainable AI.
-- **Secure Remote Password** — an implementation of the SRP authentication protocol in Go.
+Explore more projects and background on my [portfolio](https://ayyappaswamy-sam.github.io/) and [GitHub repositories](https://github.com/AyyappaSwamy-Sam?tab=repositories).
 
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=AyyappaSwamy-Sam&amp;theme=mac" alt="Ayyappa's GitHub profile in a terminal-style card" width="650" />
+  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=AyyappaSwamy-Sam&amp;theme=mac" alt="Ayyappa's GitHub profile in a terminal-style card" width="540" />
 </p>
-
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="A 3D city showing Ayyappa's GitHub contributions" width="800" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D visualization of Ayyappa's GitHub contributions" width="720" />
 </p>
